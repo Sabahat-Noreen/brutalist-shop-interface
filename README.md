@@ -17,8 +17,8 @@ All core assets, style documents, markup configurations, and media resources are
 ```text
 Amazon Clone
 │
-├── 📄 index.html          # Structural layout and semantic HTML markup
-├── 📄 style.css           # Styling rules, layouts, typography, and hover effects
+├── index.html          # Structural layout and semantic HTML markup
+├── style.css           # Styling rules, layouts, typography, and hover effects
 │
 ├── Amazon-logo.jpg    
 ├── hero.jpg       # Main introductory sliding hero image
