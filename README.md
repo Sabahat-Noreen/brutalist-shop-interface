@@ -15,23 +15,25 @@ A pixel-perfect frontend clone of the Amazon homepage built entirely using vanil
 All core assets, style documents, markup configurations, and media resources are stored inside the main root folder for clean, straightforward access:
 
 ```text
-Amazon Clone
+
+brutalist-shop-interface
 │
-├── index.html          # Structural layout and semantic HTML markup
-├── style.css           # Styling rules, layouts, typography, and hover effects
+├── Amazon Clone
+│   ├── index.html          # Structural layout and semantic HTML markup
+|   ├── style.css           # Styling rules, layouts, typography, and hover effects
 │
-├── Amazon-logo.jpg    
-├── hero.jpg       # Main introductory sliding hero image
-├── box1.jpg       # Product showcase graphic (1 of 12)
-├── box2.jpg       # Product showcase graphic (2 of 12)
-├── box3.jpg       # Product showcase graphic (3 of 12)
-├── box4.jpg       # Product showcase graphic (4 of 12)
-├── box5.jpg       # Product showcase graphic (5 of 12)
-├── box6.jpg       # Product showcase graphic (6 of 12)
-├── box7.jpg       # Product showcase graphic (7 of 12)
-├── box8.jpg       # Product showcase graphic (8 of 12)
-├── box9.jpg       # Product showcase graphic (9 of 12)
-├── box10.jpg      # Product showcase graphic (10 of 12)
-├── box11.jpg      # Product showcase graphic (11 of 12)
+|   ├── Amazon-logo.jpg    
+|   ├── hero.jpg       # Main introductory sliding hero image
+|   ├── box1.jpg       # Product showcase graphic (1 of 12)
+|   ├── box2.jpg       # Product showcase graphic (2 of 12)
+|   ├── box3.jpg       # Product showcase graphic (3 of 12)
+|   ├── box4.jpg       # Product showcase graphic (4 of 12)
+|   ├── box5.jpg       # Product showcase graphic (5 of 12)
+|   ├── box6.jpg       # Product showcase graphic (6 of 12)
+|   ├── box7.jpg       # Product showcase graphic (7 of 12)
+|   ├── box8.jpg       # Product showcase graphic (8 of 12)
+|   ├── box9.jpg       # Product showcase graphic (9 of 12)
+|   ├── box10.jpg      # Product showcase graphic (10 of 12)
+|   ├── box11.jpg      # Product showcase graphic (11 of 12)
 │
-└── 📄 README.md           # Documentation and file setup layout guide (this file)
+├──  README.md               
